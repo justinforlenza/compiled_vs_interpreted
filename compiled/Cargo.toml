@@ -1,0 +1,11 @@
+[package]
+name = "prime_generator"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+cpp_core = "0.6"
+qt_widgets = "0.5"
+qt_core = "0.5"
+qt_gui = "0.5"
+velcro = "0.5.3"
